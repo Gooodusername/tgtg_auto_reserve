@@ -1,4 +1,4 @@
-Reserving the goods from your favourite list
+Automate the ordering and payment process of TooGoodToGo.
 ## Installation
 ```bash
 pip install -r requirements.txt
