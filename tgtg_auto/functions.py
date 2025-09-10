@@ -43,7 +43,7 @@ def ask_for_time():
 
 def place_order_at_time():
     #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-    email = "wxxforwork@gmail.com"
+    email = input("Enter your email: ")
 
     # ENV card variables
     card_number = os.getenv("CARD_NUMBER")
