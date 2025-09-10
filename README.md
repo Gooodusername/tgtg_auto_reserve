@@ -1,3 +1,4 @@
+Reserving the goods from your favourite list
 ## Installation
 ```bash
 pip install -r requirements.txt
